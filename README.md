@@ -1,1 +1,1 @@
-# ec2-web-proj
+# ec2-static-web-proj
